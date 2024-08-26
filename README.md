@@ -1,5 +1,5 @@
 ![Badge](https://img.shields.io/badge/Project--17-Global--SuperStore-blue)
-# Global SuperStore Sales💻
+# Global Super Store💻
 ### Hey, I am [**Vishal**](https://www.linkedin.com/in/vishal-kumar-62146b230/) 🙂 
 ### This is  my 17th live Project.
 ### I made this project using ![Ms Excel and Power BI](https://img.shields.io/badge/Excel%20%26-PowerBI%20-blue)
